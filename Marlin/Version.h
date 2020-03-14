@@ -74,3 +74,12 @@
 //#define  USB_DEVICE_VENDOR_ID           0x0000
 //#define  USB_DEVICE_PRODUCT_ID          0x0000
 //#define  USB_DEVICE_MANUFACTURE_NAME    WEBSITE_URL
+
+// Wanhao i3 stock X
+// Jinsanshi 42HS34(L)-0954JA05-021 - 0.95 amp
+// Wanhao i3 stock Y
+// Jinsanshi 42HS34(L)-0954JA05-021 - 0.95 amp
+// Wanhao i3 stock Z
+// 42HS48-1204JA05-02 - 1.2 amp 4 lead, 1.8degree
+// Wanhao i3 stock E
+// Jinsanshi 42HS34(L)-0954JA05-021 - 0.95 amp
